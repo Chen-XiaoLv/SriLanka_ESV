@@ -1,16 +1,3 @@
----
-title: 【数据分析实践】斯里兰卡生态服务价值计算
-tags: 项目实践
-categories: 不想学辣
-description: 开学做的一个项目
-keys: DM
-cover: https://w.wallhaven.cc/full/x6/wallhaven-x6l7vv.jpg
-katex: true
-
----
-
-
-
 # 斯里兰卡生态服务价值计算
 
 ---
